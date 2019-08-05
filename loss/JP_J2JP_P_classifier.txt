@@ -1,0 +1,113 @@
+classifier/d_h0_conv/Conv/weights:0
+classifier/d_h1_conv/Conv/weights:0
+classifier/d_bn1/scale:0
+classifier/d_bn1/offset:0
+classifier/d_h2_conv/Conv/weights:0
+classifier/d_bn2/scale:0
+classifier/d_bn2/offset:0
+classifier/d_h3_conv/Conv/weights:0
+classifier/d_bn3/scale:0
+classifier/d_bn3/offset:0
+classifier/d_h3_pred/Conv/weights:0
+Successfully create training list!
+Successfully create testing list!
+epoch: 0 testing accuracy: 0.6448889 loss: 0.2158274
+epoch: 1 testing accuracy: 0.6382222 loss: 0.37806433
+epoch: 2 testing accuracy: 0.60888886 loss: 0.38155678
+epoch: 3 testing accuracy: 0.61777776 loss: 0.012084781
+epoch: 4 testing accuracy: 0.64177775 loss: 0.14032835
+epoch: 5 testing accuracy: 0.62844443 loss: 0.3733179
+epoch: 6 testing accuracy: 0.612 loss: 0.15218318
+epoch: 7 testing accuracy: 0.6262222 loss: 0.016280912
+epoch: 8 testing accuracy: 0.64133334 loss: 0.014939866
+epoch: 9 testing accuracy: 0.64666665 loss: 0.0040155193
+epoch: 10 testing accuracy: 0.616 loss: 0.25504658
+epoch: 11 testing accuracy: 0.63688886 loss: 0.007826483
+epoch: 12 testing accuracy: 0.628 loss: 0.0259988
+epoch: 13 testing accuracy: 0.62844443 loss: 0.00551566
+epoch: 14 testing accuracy: 0.6537778 loss: 0.012323959
+epoch: 15 testing accuracy: 0.6297778 loss: 0.030638905
+epoch: 16 testing accuracy: 0.636 loss: 0.05335778
+epoch: 17 testing accuracy: 0.636 loss: 0.0047028214
+epoch: 18 testing accuracy: 0.62666667 loss: 0.0032944225
+epoch: 19 testing accuracy: 0.6577778 loss: 0.0063193226
+epoch: 20 testing accuracy: 0.6395556 loss: 0.0035327321
+epoch: 21 testing accuracy: 0.63244444 loss: 0.003058222
+epoch: 22 testing accuracy: 0.65022224 loss: 0.015759956
+epoch: 23 testing accuracy: 0.6448889 loss: 0.0036798578
+epoch: 24 testing accuracy: 0.6288889 loss: 0.30860865
+epoch: 25 testing accuracy: 0.64044446 loss: 0.0026313437
+epoch: 26 testing accuracy: 0.6537778 loss: 0.16498438
+epoch: 27 testing accuracy: 0.6675556 loss: 0.03380012
+epoch: 28 testing accuracy: 0.6386667 loss: 0.00061489455
+epoch: 29 testing accuracy: 0.67733335 loss: 0.24169259
+epoch: 30 testing accuracy: 0.66844445 loss: 0.0052458285
+epoch: 31 testing accuracy: 0.6471111 loss: 0.0009292443
+epoch: 32 testing accuracy: 0.6337778 loss: 0.0029110317
+epoch: 33 testing accuracy: 0.67422223 loss: 0.003650756
+epoch: 34 testing accuracy: 0.648 loss: 0.005619422
+epoch: 35 testing accuracy: 0.64577776 loss: 0.0031684123
+epoch: 36 testing accuracy: 0.6511111 loss: 0.0024508014
+epoch: 37 testing accuracy: 0.6573333 loss: 0.00093928294
+epoch: 38 testing accuracy: 0.64977777 loss: 0.102652214
+epoch: 39 testing accuracy: 0.66444445 loss: 0.005693663
+epoch: 40 testing accuracy: 0.64622223 loss: 0.0006349549
+epoch: 41 testing accuracy: 0.6377778 loss: 0.0030454532
+epoch: 42 testing accuracy: 0.6577778 loss: 0.0047993483
+epoch: 43 testing accuracy: 0.6537778 loss: 0.0061472883
+epoch: 44 testing accuracy: 0.65511113 loss: 0.13160607
+epoch: 45 testing accuracy: 0.65066665 loss: 0.1588242
+epoch: 46 testing accuracy: 0.6511111 loss: 0.0015102767
+epoch: 47 testing accuracy: 0.6711111 loss: 0.002577953
+epoch: 48 testing accuracy: 0.636 loss: 0.0009345367
+epoch: 49 testing accuracy: 0.68 loss: 0.037847932
+epoch: 50 testing accuracy: 0.68311113 loss: 0.0027140519
+epoch: 51 testing accuracy: 0.6484445 loss: 0.004225946
+epoch: 52 testing accuracy: 0.65955555 loss: 0.00896791
+epoch: 53 testing accuracy: 0.66044444 loss: 0.07040326
+epoch: 54 testing accuracy: 0.65422225 loss: 0.0014196719
+epoch: 55 testing accuracy: 0.6666667 loss: 0.04862917
+epoch: 56 testing accuracy: 0.6666667 loss: 0.001294873
+epoch: 57 testing accuracy: 0.64577776 loss: 0.011932135
+epoch: 58 testing accuracy: 0.648 loss: 0.0036702002
+epoch: 59 testing accuracy: 0.6568889 loss: 0.0005745735
+epoch: 60 testing accuracy: 0.6533333 loss: 0.0005171496
+epoch: 61 testing accuracy: 0.656 loss: 0.0029486036
+epoch: 62 testing accuracy: 0.6617778 loss: 0.0032036153
+epoch: 63 testing accuracy: 0.6657778 loss: 0.32077533
+epoch: 64 testing accuracy: 0.66444445 loss: 0.00095423835
+epoch: 65 testing accuracy: 0.65066665 loss: 0.0005310782
+epoch: 66 testing accuracy: 0.6524444 loss: 0.00085452833
+epoch: 67 testing accuracy: 0.6591111 loss: 0.00036503575
+epoch: 68 testing accuracy: 0.6711111 loss: 0.0005040095
+epoch: 69 testing accuracy: 0.6471111 loss: 0.0018905717
+epoch: 70 testing accuracy: 0.6715556 loss: 0.00034223375
+epoch: 71 testing accuracy: 0.6706667 loss: 0.00025130596
+epoch: 72 testing accuracy: 0.6706667 loss: 0.1188977
+epoch: 73 testing accuracy: 0.676 loss: 0.0012179741
+epoch: 74 testing accuracy: 0.67333335 loss: 0.00039965054
+epoch: 75 testing accuracy: 0.67333335 loss: 0.073686026
+epoch: 76 testing accuracy: 0.66044444 loss: 0.00029080728
+epoch: 77 testing accuracy: 0.6631111 loss: 0.00032325854
+epoch: 78 testing accuracy: 0.668 loss: 0.0001995667
+epoch: 79 testing accuracy: 0.6582222 loss: 0.00033379486
+epoch: 80 testing accuracy: 0.6666667 loss: 0.080274105
+epoch: 81 testing accuracy: 0.6617778 loss: 0.0002909754
+epoch: 82 testing accuracy: 0.664 loss: 0.00032182306
+epoch: 83 testing accuracy: 0.6666667 loss: 0.00016639013
+epoch: 84 testing accuracy: 0.6764445 loss: 0.00052377
+epoch: 85 testing accuracy: 0.66933334 loss: 0.0003501239
+epoch: 86 testing accuracy: 0.66888887 loss: 0.00035171496
+epoch: 87 testing accuracy: 0.67466664 loss: 0.0460007
+epoch: 88 testing accuracy: 0.67377776 loss: 0.0003509028
+epoch: 89 testing accuracy: 0.6671111 loss: 0.00048102386
+epoch: 90 testing accuracy: 0.66533333 loss: 0.00027500658
+epoch: 91 testing accuracy: 0.6648889 loss: 0.00032798247
+epoch: 92 testing accuracy: 0.6671111 loss: 0.0002640468
+epoch: 93 testing accuracy: 0.672 loss: 0.00035559648
+epoch: 94 testing accuracy: 0.6715556 loss: 0.00035676238
+epoch: 95 testing accuracy: 0.672 loss: 0.00027911202
+epoch: 96 testing accuracy: 0.6706667 loss: 0.00043683616
+epoch: 97 testing accuracy: 0.6711111 loss: 0.00034829916
+epoch: 98 testing accuracy: 0.6706667 loss: 0.043052223
+epoch: 99 testing accuracy: 0.66888887 loss: 0.046683185

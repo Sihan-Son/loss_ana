@@ -1,0 +1,113 @@
+classifier/d_h0_conv/Conv/weights:0
+classifier/d_h1_conv/Conv/weights:0
+classifier/d_bn1/scale:0
+classifier/d_bn1/offset:0
+classifier/d_h2_conv/Conv/weights:0
+classifier/d_bn2/scale:0
+classifier/d_bn2/offset:0
+classifier/d_h3_conv/Conv/weights:0
+classifier/d_bn3/scale:0
+classifier/d_bn3/offset:0
+classifier/d_h3_pred/Conv/weights:0
+Successfully create training list!
+Successfully create testing list!
+epoch: 0 testing accuracy: 0.42221478 loss: 0.7243459
+epoch: 1 testing accuracy: 0.5861492 loss: 0.73964375
+epoch: 2 testing accuracy: 0.61692876 loss: 0.68330026
+epoch: 3 testing accuracy: 0.5811308 loss: 0.6626021
+epoch: 4 testing accuracy: 0.52525926 loss: 0.6584812
+epoch: 5 testing accuracy: 0.6229508 loss: 0.71065795
+epoch: 6 testing accuracy: 0.59183675 loss: 0.69772637
+epoch: 7 testing accuracy: 0.41418535 loss: 0.8468967
+epoch: 8 testing accuracy: 0.5085313 loss: 0.73830795
+epoch: 9 testing accuracy: 0.4948143 loss: 0.7984079
+epoch: 10 testing accuracy: 0.4907996 loss: 0.7485586
+epoch: 11 testing accuracy: 0.5898294 loss: 0.6392037
+epoch: 12 testing accuracy: 0.504182 loss: 0.7619934
+epoch: 13 testing accuracy: 0.61458683 loss: 0.70461017
+epoch: 14 testing accuracy: 0.5854801 loss: 0.7366204
+epoch: 15 testing accuracy: 0.5289394 loss: 0.6905608
+epoch: 16 testing accuracy: 0.5925059 loss: 0.72279793
+epoch: 17 testing accuracy: 0.5500167 loss: 0.8030996
+epoch: 18 testing accuracy: 0.6189361 loss: 0.6236749
+epoch: 19 testing accuracy: 0.609903 loss: 0.7476357
+epoch: 20 testing accuracy: 0.5436601 loss: 0.65035
+epoch: 21 testing accuracy: 0.54332554 loss: 0.69565624
+epoch: 22 testing accuracy: 0.5965206 loss: 0.7029836
+epoch: 23 testing accuracy: 0.6072265 loss: 0.69258547
+epoch: 24 testing accuracy: 0.5677484 loss: 0.6456267
+epoch: 25 testing accuracy: 0.58916026 loss: 0.64156795
+epoch: 26 testing accuracy: 0.6122449 loss: 0.7068683
+epoch: 27 testing accuracy: 0.5644028 loss: 0.6862211
+epoch: 28 testing accuracy: 0.6052191 loss: 0.7990439
+epoch: 29 testing accuracy: 0.59819335 loss: 0.5740341
+epoch: 30 testing accuracy: 0.6122449 loss: 0.70812756
+epoch: 31 testing accuracy: 0.55637336 loss: 0.71718895
+epoch: 32 testing accuracy: 0.51221144 loss: 0.66755426
+epoch: 33 testing accuracy: 0.5955169 loss: 0.572758
+epoch: 34 testing accuracy: 0.5898294 loss: 0.7716048
+epoch: 35 testing accuracy: 0.5570425 loss: 0.7470962
+epoch: 36 testing accuracy: 0.58581465 loss: 0.64837795
+epoch: 37 testing accuracy: 0.6072265 loss: 0.7128722
+epoch: 38 testing accuracy: 0.6149214 loss: 0.73596394
+epoch: 39 testing accuracy: 0.512546 loss: 0.73499244
+epoch: 40 testing accuracy: 0.59518236 loss: 0.6812499
+epoch: 41 testing accuracy: 0.57377046 loss: 0.70706815
+epoch: 42 testing accuracy: 0.5396454 loss: 0.66635704
+epoch: 43 testing accuracy: 0.56507194 loss: 0.64470613
+epoch: 44 testing accuracy: 0.5647374 loss: 0.68068266
+epoch: 45 testing accuracy: 0.5470057 loss: 0.6985338
+epoch: 46 testing accuracy: 0.5369689 loss: 0.72489274
+epoch: 47 testing accuracy: 0.5925059 loss: 0.54586816
+epoch: 48 testing accuracy: 0.57377046 loss: 0.81792223
+epoch: 49 testing accuracy: 0.5630646 loss: 0.7058853
+epoch: 50 testing accuracy: 0.5276012 loss: 0.6846632
+epoch: 51 testing accuracy: 0.53027767 loss: 0.5552041
+epoch: 52 testing accuracy: 0.47808632 loss: 0.6831747
+epoch: 53 testing accuracy: 0.6052191 loss: 0.6088515
+epoch: 54 testing accuracy: 0.48511207 loss: 0.7072731
+epoch: 55 testing accuracy: 0.5516895 loss: 0.7461977
+epoch: 56 testing accuracy: 0.5864838 loss: 0.55557907
+epoch: 57 testing accuracy: 0.6038809 loss: 0.6356555
+epoch: 58 testing accuracy: 0.5600535 loss: 0.6038066
+epoch: 59 testing accuracy: 0.5670793 loss: 0.72201324
+epoch: 60 testing accuracy: 0.59886247 loss: 0.6027959
+epoch: 61 testing accuracy: 0.57979256 loss: 0.5946994
+epoch: 62 testing accuracy: 0.51053864 loss: 0.4783588
+epoch: 63 testing accuracy: 0.61023754 loss: 0.6945853
+epoch: 64 testing accuracy: 0.5326196 loss: 0.5847636
+epoch: 65 testing accuracy: 0.57544327 loss: 0.64504725
+epoch: 66 testing accuracy: 0.57009035 loss: 0.547695
+epoch: 67 testing accuracy: 0.55302775 loss: 0.61316097
+epoch: 68 testing accuracy: 0.57477415 loss: 0.705827
+epoch: 69 testing accuracy: 0.61257946 loss: 0.6334777
+epoch: 70 testing accuracy: 0.50618935 loss: 0.5855858
+epoch: 71 testing accuracy: 0.59016395 loss: 0.6436785
+epoch: 72 testing accuracy: 0.59183675 loss: 0.7182343
+epoch: 73 testing accuracy: 0.5644028 loss: 0.66652274
+epoch: 74 testing accuracy: 0.5720977 loss: 0.6959262
+epoch: 75 testing accuracy: 0.5864838 loss: 0.63316685
+epoch: 76 testing accuracy: 0.59083307 loss: 0.73432326
+epoch: 77 testing accuracy: 0.58849114 loss: 0.65337706
+epoch: 78 testing accuracy: 0.5854801 loss: 0.6079643
+epoch: 79 testing accuracy: 0.58414185 loss: 0.618813
+epoch: 80 testing accuracy: 0.5550351 loss: 0.6305638
+epoch: 81 testing accuracy: 0.5904985 loss: 0.626966
+epoch: 82 testing accuracy: 0.5804617 loss: 0.58748215
+epoch: 83 testing accuracy: 0.5610572 loss: 0.732879
+epoch: 84 testing accuracy: 0.5911676 loss: 0.6929595
+epoch: 85 testing accuracy: 0.60086983 loss: 0.6144762
+epoch: 86 testing accuracy: 0.5911676 loss: 0.70618236
+epoch: 87 testing accuracy: 0.5470057 loss: 0.688988
+epoch: 88 testing accuracy: 0.5687521 loss: 0.59285897
+epoch: 89 testing accuracy: 0.57009035 loss: 0.6324509
+epoch: 90 testing accuracy: 0.5744396 loss: 0.5889229
+epoch: 91 testing accuracy: 0.56239545 loss: 0.5707755
+epoch: 92 testing accuracy: 0.5644028 loss: 0.614465
+epoch: 93 testing accuracy: 0.584811 loss: 0.58785224
+epoch: 94 testing accuracy: 0.57979256 loss: 0.65596795
+epoch: 95 testing accuracy: 0.5777852 loss: 0.5960444
+epoch: 96 testing accuracy: 0.5664102 loss: 0.67586005
+epoch: 97 testing accuracy: 0.5731014 loss: 0.62557244
+epoch: 98 testing accuracy: 0.5734359 loss: 0.6128941
+epoch: 99 testing accuracy: 0.5777852 loss: 0.64965606
